@@ -1,7 +1,7 @@
 dotcloud-hello
 ===============
 
-A Hello World app to run dotCloud.  See http://www.ctdean.com
+A Hello World app to run on dotCloud.  See http://www.ctdean.com
 
 Authors
 =======
